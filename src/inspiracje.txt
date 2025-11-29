@@ -1,0 +1,4 @@
+i. inspiracje (słowa, skojarzenia, pomysły),
+ii. krótka lista elementów projektów.
+iii. wstępne dane wejściowe (np. lista kategorii, lista funkcji),
+iv. lista źródeł pomysłu (np. znajomy, własna potrzeba, przypadek)
